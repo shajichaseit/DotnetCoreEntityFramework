@@ -1,0 +1,14 @@
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\bin\Debug\netcoreapp2.1\WebApplicationWebAPI.deps.json
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\bin\Debug\netcoreapp2.1\WebApplicationWebAPI.runtimeconfig.json
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\bin\Debug\netcoreapp2.1\WebApplicationWebAPI.runtimeconfig.dev.json
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\bin\Debug\netcoreapp2.1\WebApplicationWebAPI.dll
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\bin\Debug\netcoreapp2.1\WebApplicationWebAPI.pdb
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.RazorAssemblyInfo.cache
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.RazorAssemblyInfo.cs
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.AssemblyInfoInputs.cache
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.AssemblyInfo.cs
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.dll
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.pdb
+C:\Users\kanrad5\source\repos\WebApplicationWebAPI\WebApplicationWebAPI\obj\Debug\netcoreapp2.1\WebApplicationWebAPI.csprojAssemblyReference.cache
